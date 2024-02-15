@@ -52,8 +52,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🔗 Deploy 
 
-![github(https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jose26362780/NLW_EXPERT_TRILHA_REACT)
-![netlify(https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://nlw-expert-trilha-react.netlify.app/)
+![github(https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)(https://github.com/Jose26362780/NLW_EXPERT_TRILHA_REACT)]
+![netlify(https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)(https://nlw-expert-trilha-react.netlify.app/)]
 
 ## 🔗 My Links
 
